@@ -18,6 +18,7 @@ modify .env file to set socket.io server and port
 
 ## TODO
 
+0. Test with chat server
 1. Fix chat layout
 2. Set a data structure for messages
 3. Comunicate successfully between many clients and servers
