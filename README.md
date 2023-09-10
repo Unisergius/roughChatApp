@@ -1,3 +1,31 @@
+# FCC socket.io chat client
+
+## install
+
+```bash
+   npm install
+```
+
+## setup
+
+modify .env file to set socket.io server and port
+
+## run
+
+```bash
+   npm run dev
+```
+
+## TODO
+
+1. Fix chat layout
+2. Set a data structure for messages
+3. Comunicate successfully between many clients and servers
+4. Different chatrooms
+5. Use supabase to store chat historys
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
